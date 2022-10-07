@@ -1,0 +1,13 @@
+
+*activeBackground: #73538E
+*activeForeground: #FFFFFF
+*disabledForeground: #392946
+*highlightBackground: #73538E
+*highlightColor: #ffffff
+! text caret / cursor thing
+*insertBackground: #ffffff
+! background used by the checkbutons/radiobuttons
+*selectColor: #000000
+*selectBackground: #7D5A99
+*selectForeground: #E1BCFF
+*troughColor: #3D2C4B

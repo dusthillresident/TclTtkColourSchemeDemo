@@ -1,0 +1,11 @@
+
+*activeBackground: #CFCDDF
+*activeForeground: #000000
+*disabledForeground: #6A6A6A
+*highlightBackground: #AFADBF
+*highlightColor: #B24D7A
+*insertBackground: #000000
+*selectColor: #FFFFFF
+*selectBackground: #B24D7A
+*selectForeground: #FFFFFF
+*troughColor: #9D9BAE
